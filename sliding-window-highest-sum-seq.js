@@ -48,4 +48,7 @@ let maxSubArraySum2 = (arr, num) => {
     return maxSum
 }
 
-console.log(maxSubArraySum2([3,4,5,2,4,7,3,8,9,4,7],4))
+console.log(maxSubArraySum2([3, 4, 5, 2, 4, 7, 3, 8, 9, 4, 7], 4))
+
+
+// write a program that find the highest consecutive non repeatable character
